@@ -1,0 +1,2 @@
+# config-server
+microservice configuation 
